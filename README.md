@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on GIST.
+- 🌱 I’m currently learning Artificial Intelligence in Brain engineering and Medical domain.
+- 👯 I’m looking to collaborate on anyone who self-motivated and creative person.
+- 📫 How to reach me: 2chaehyun@gist.ac.kr
+  
 <!--
 **Chaehyunee/Chaehyunee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
