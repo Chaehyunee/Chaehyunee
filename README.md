@@ -1,21 +1,7 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on GIST.
-- 🌱 I’m currently learning Artificial Intelligence in Brain engineering and Medical domain.
-- 👯 I’m looking to collaborate on anyone who self-motivated and creative person.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0995FB&width=435&lines=Welcome+to+Chaehyun's+Github!+;I'm+AI+Engineer)](https://git.io/typing-svg)
+- 🔭 I’m currently looking for a job.
+- 🌱 I'd love to learn Artificial Intelligence in Medical domain.
+- 👯 I’m looking to work with company who self-motivated and creative person.
 - 📫 How to reach me: 2chaehyun@gist.ac.kr
-  
-<!--
-**Chaehyunee/Chaehyunee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨Tech Stack✨
