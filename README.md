@@ -7,6 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D69FB&width=435&lines=Welcome+to+Chaehyun's+Github!+;I'm+an+AI+engineer)](https://git.io/typing-svg)
 - 🔭 Everyone, Everywhere, Healthy Connect!
 - 🌱 I love to learn Artificial Intelligence in Medical domain.
+- 🙋‍♀️ Now, I'm working on EMG and neuromuscular fields.
 - :smiley: Uncovering hidden stories within data and driving change in the world through AI.
 - 📫 How to reach me: 2chaehyun@gist.ac.kr
 
